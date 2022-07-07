@@ -4,7 +4,7 @@ ARK Invest's Roku Valuation Model, Published July 7, 2022.
 
 We publish our open-source Roku model to strengthen the quality of our research. By sharing our assumptions and modeling methodologies, we hope to solicit constructive feedback and criticism. Like open-source software, we believe that open-source research will be more robust and accurate than research conducted and published non-transparently behind closed doors.
 
-Please read ARK's companion piece on our thesis here: 
+Please read ARK's companion piece on our thesis here: https://ark-invest.com/articles/analyst-research/ark-roku-model-2026/
 
 Authors: Nick Grous and Andrew Kim
 
